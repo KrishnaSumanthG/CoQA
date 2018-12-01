@@ -1,9 +1,7 @@
 # CoQA
-Tensorflow implementation
+ 
 
-Add all related links here.
-
-Tensorflow version- 1.2 and above
+Related links 
 
 https://google.github.io/seq2seq/ <-- (seq2seq)
 
